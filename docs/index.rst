@@ -8,7 +8,7 @@
 Welcome to WireCurly's documentation!
 =====================================
 
-``WireCurly`` is a project sponsored by Indicium SRL and it's main objective is assist developers write configuration for |FS|.
+``WireCurly`` is a project sponsored by Indicium SRL and its main objective is assist developers write configuration for |FS|.
 
 ``WireCurly`` is currently in alpha stage although it is being intensively used in production systems. The main reason why it is in alpha stage is because it is incomplete and only the features needed by specific vendor applications are implemented. We will soon complete the lib open it's official release annoucement.
 
